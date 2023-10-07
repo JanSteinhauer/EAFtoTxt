@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-04-22T16:49:31-06:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/margo/Desktop/TGDP/Audio files for transcription tests/GoTranscript/Turning them into ELAN files/18-247-1-14-a.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Turning them into ELAN files/18-247-1-14-a.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:fa88b615-193f-49b4-b77f-39a1760248fa</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">100</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1759"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1863"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2746"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="4942"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="9645"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="10415"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="16765"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="16865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="18218"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="18235"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="18599"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="18600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="23320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="23500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="23860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="26361"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="26721"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="27424"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="27424"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="28100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="29169"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="29870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="30439"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="32915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="34175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="37361"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="45909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="46299"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="49650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="49820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="52653"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="52893"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="55149"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="55297"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="56537"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="56633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="58792"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="58792"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="59202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="59722"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="62891"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="63201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="71254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="72034"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="73052"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="73172"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="73912"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="74111"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="75435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="77255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="77905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="78171"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="83432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="84642"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="91794"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="91794"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="92867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="92867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="92924"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="94207"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="97140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="98563"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="99873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="99965"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="100055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="100908"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="100908"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="100945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="102478"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="102838"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="103096"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="104836"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="104836"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="104836"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="106320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="106320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="107608"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="107630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="107708"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="109598"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="109608"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="109664"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="110703"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="111841"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="113201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="114860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="118480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="118530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="119184"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="120331"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="123431"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="123486"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="123506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="125666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="125696"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="115" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="247" TIER_ID="Speaker 247">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>WIE viel [what]?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>[OVER, over here]?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>[JUST had one or two. WE never had, you know (???) a real small place.]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>(???) (???) (???) (???)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>WENIG, ja.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ICH habn se</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>AM Morge hab ich Kühe gemolke molke. UND denn hab ichs Kalb wieder (???). [CAUSE]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>se habn - DAMALS ham se immer so spät schaffe.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>OKAY [so]. (???) wenn ich heimgekommen bin, (???)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>war es sechzi (???)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>oder [midnight], Mitternacht.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ICH bin sie voneinander gemach. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>DANN, am Morge, habe ich sie wieder gemolken (???). OH, saale, saale [fresh milk]. SAALE </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>[that fresh milk] </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>ICH hab (???) mitgenomme</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>un habns (???) (???) mich un n paar andere da hilfe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>(???) sind se in (???) gemacht und (???) (???) (???) (???) (???)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>SO hab ich (???) (???) (???) Tasse voll gehab</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>UN is er -</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>[IT was an</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>experience for him too,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>to drink fresh milk].</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>[LIVIN in the city. YOU know, that]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>(???) [HE en-]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>[HE enjoyed it.]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>YEAH.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>(laughs)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="115" LINGUISTIC_TYPE_REF="Translation"
+        PARENT_REF="Speaker 247" PARTICIPANT="247" TIER_ID="Translation Speaker 247">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>How many what?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Over, over here?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Just had one or two. We never had, you know (???) a real small place.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>(???) (???) (???) (???)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>A-few, yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>I have them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>In-the morning did I cows milk milk. AND then did I-the calf again (???). Because</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>they did - Back-then did they always so late work.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Okay so. (???) when I home-come did, (???)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>was it six (???)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>or midnight, midnight.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>I did them from-each-other take.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Then in-the morning, did I them again milk (???). Oh, that, that fresh milk. That</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>that fresh milk]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>and did (???) (???) me and a couple others that help</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>(???) are they in (???) put and (???) (???) (???) (???) (???)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>So did I (???) (???) (???) cup full have</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>And is he -</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>It was an</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>experience for him too,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>to drink fresh milk.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Living in the city. You know, that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>(???) He en-</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>He enjoyed it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Yeah.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>(laughs)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="115" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="18" TIER_ID="Interviewer 18">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>WIE viele Küh haste gehabt?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>WIE viele Küh hast du gehabt?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>KIEH. WIE viele Kieh hascht du gehabt, damals?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>NAMLIK wieviel Küh? [BACK then, how many cows did you have]?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>[YEAH].</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>AHH</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>UND was für</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>Milich? Oder Milch- (???)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>JA, sorry.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>JA.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>JA, ja.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>SCHMECKT am besten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>OOHH.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>JA, ja. (laughs)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>HASCHT du (???)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>[I bet. I bet.]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>[YEAH, yeah.]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>[YOU didnt get that.]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>[OH, sure.]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>[YEAH, that's that was just a rarity, wadnt it?]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>BET they didnt, yeah - THEY didn't know what hit them.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>(laughs)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="115" LINGUISTIC_TYPE_REF="Translation"
+        PARENT_REF="Interviewer 18" PARTICIPANT="18" TIER_ID="Translation Interviewer 18">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>How many cows did-you have?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>How many cows did you have?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>Cows. How many cows did you have, back-then?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>Namely, how-many cows? Back then, how many cows did you have?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>Yeah.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>Ahh.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>And what kind-of</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>Dairy? Or dairy- (???)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>Yes, sorry.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Yes, yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>Tastes the best.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>Oohh.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>Yes, yes. (laughs)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>Have you (???)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>I bet. I bet.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>Yeah, yeah.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>You didnt get that.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>Oh, sure.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>Yeah, that's that was just a rarity, wasnt it?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>I-bet they didnt, yeah - They didn't know what hit them.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>(laughs)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Translation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

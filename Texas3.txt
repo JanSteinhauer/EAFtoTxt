@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-04-21T13:39:24-06:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/margo/Desktop/TGDP/Audio files for transcription tests/GoTranscript/Turning them into ELAN files/51-284-1-4-a.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Turning them into ELAN files/51-284-1-4-a.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c67174de-9a0c-49f2-af66-7f46f158e95d</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">70</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="25461"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="25789"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="28560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="33710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="33833"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="34023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="34120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="39450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="39450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="47400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="47400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="57869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="57869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="66521"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="66521"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="74000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="74020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="79160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="79160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="83000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="83000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="86360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="86360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="104460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="104460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="109610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="109610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="121560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="121560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="123313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="123587"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="125389"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="125644"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="127720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="127720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="133805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="134004"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="139471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="139480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="140090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="140179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="140879"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="140950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="148310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="148310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="152450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="152499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="155900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="156850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="157307"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="158122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="160190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="160230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="164088"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="164098"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="164378"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="164590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="169500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="169500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="180520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="180520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="187780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="187780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="199000"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="115" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="284" TIER_ID="Speaker 284">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>UNS uh -</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>HABEN mir immer die uh, uh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>[press] WIR hatten eine [press], wo ma die Soß aus die uh [canes], uh, nomme haben UND dann haben mir das [molasses] gekocht. DAS ist große, große Arbeit. MASSE Arbeit.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>[WELL], die hat - OH, n uh Pfanne etwas größer wie der Tisch hier</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>UN denn haben sie hier der große Block gehabt, wo das</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>DIE hatten die um um AN die Seite hatten se uh die [press],</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>SIND ha- Pferde sind immer humgegang, die [roller] haben es zusammengerollt und haben das das die Soße aus den [canes] (???) [canes] sagt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>in [a] Dopf gelaufen und dann haben das herausgeschepft in den Eimer HABEN sie den großen Topf gebracht bei dite Ofen, oder die Pfanne.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>DANN denn hat - haben die denn immer das die Soße rinlaufen lassen und denn sind das so</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>[trays], die sind hinterher gegangen in die Pfanne UND so haben se das</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>LEUTE an jeder Seite von der Pfanne haben se die Soße</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>denn da durchgebracht und haben se so ein</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>drei Stigge gekocht. UND [so] hier war die frische Soß, hier war das mittel, und hier war das gute Soß. UND das - WENN das richtig gekocht war, dann haben wir es hier herausgenomme un- DENN, wenns hier herausgenommen hast, hast du es immer durchgearbeitet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>UN denn haben mir es in die erschte Reihe hast du herausgeschepft un hast </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>in Eimer gestellt und kühl werden lassen. DIE ganze Zeit musst du immer Soß rinbringen, so dass die Pfanne nicht zu heiß geworden ist. UND uh das, das nimmt </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>[a] Maße Leut (???), wo wissen, was zu tun. MUSS nicht zu schnell kochen,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>nicht zu langsam. FEUER muss nicht zu heiß sein, nicht zu kalt. UH [so]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>OH, Eimer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>WIR haben [plenty molasses] gegessen. DAS war (???) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>anderes, [jelly], aber Masse [molasses].</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>NO.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>NEIN.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>MIT alles (???). AUF Brot, Brot </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>mit Rahm, oder bloß Butter und [molasses],</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>bloß zu essen, uh. [MITTEN-MORGEN] oder mit [mid-Nachmittag, wenn wir die Feld gearbeitet haben, haben wir immer </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>fünf Mal Mahlzeiten am Dag gegessen. Frühstück, [mid-Morgen], Mittag,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>[mitten-Nachmittag], uh, Nachmittag, drei, vier Uhr herum UND dann Abends, is, [was] uh [supper], haben wir es immer gesagt. [SUPPER].</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="115" LINGUISTIC_TYPE_REF="Translation"
+        PARENT_REF="Speaker 284" PARTICIPANT="284" TIER_ID="Translation Speaker 284">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>We uh -</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Have we always the, uh, uh</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>press We had a press, where we the sap from the uh sugar-canes, uh, removed did And then have we the molasses cooked. That is big, big work. A-lot-of work.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Well, they did - Oh, a uh pan a-little bigger than this table here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>And then did they here the big block have, where the</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>They had the um um On the side had they uh the press</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>ARE ha- horses are always around-went, the rollers did it together-roll and did that that the sap from the sugar-canes (???) canes say</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>in a pot run and then did that out-ladle into the bucket They had the big pot brought by the oven, or the pan.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>Then then did - did they then always the sap in-run let and then are there so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>trays, they are afterwards went in the pan And thus have they the</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>People on each side of the pan did they the sap</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>then there through-brought and have the thus in</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>three parts cooked. And so here was the fresh sap, here was the middle, and here was the good sap. And that - When that correctly cooked was, then have we it here out-take and- Then, when-it here out-take have, have you it always through-worked.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>And then have we it in the first row have you out-ladled and have</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>in bucket put and cool become let. The wntire time must you always sap in-bring, so that the pan not too hot become will. And uh that, that takes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>a lot-of people (???), who know, what to do. Must not too quickly cook</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>not too slowly. Fire must not too hot be, not too cold. Uh so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Oh, buckets.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Buckets. We have pleanty molasses ate. There was (???)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>other-things, jelly, but a-lot-of molasses</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>No.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>Nein.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>With everything (???). On bread, bread</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>with cream, or just butter and molasses,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>just to eat, uh. Mid-morning or afternoon, when we had the field worked had, did we always</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>five times meals a day eat. Breakfast, mid-morning, mid-day</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>mid-afternoon, uh, afternoon, three, four o'clock around And then in-the-evening is was uh supper, have we it always called. Supper.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="115" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="51" TIER_ID="Interviewer 51">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>WIE kocht - WIE kocht man [molasses] (???)?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>JA.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>JA.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>JA.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>[SO] war die [molasses] in in in in Flaschen gelagert oder in Eimer oder?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>EIMER, okay.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>HABEN, haben Sie nur [molasses] als Zucker ge- [so] als Süßigkeit gemacht? WAS, was haben Sie mit den [molasses] gemacht?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Um-hm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="115" LINGUISTIC_TYPE_REF="Translation"
+        PARENT_REF="Interviewer 51" PARTICIPANT="51" TIER_ID="Translation Interviewer 51">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>How cooks - How cooks one molasses (???)?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>So was the molasses in in in in bottles stored or in buckets or?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>Buckets, okay.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>Have, have you only molasses as sugar, so as sweetner used? What, waht did you eith the molasses do?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>Um-hm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Translation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
