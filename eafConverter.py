@@ -33,26 +33,33 @@ def extract_and_print_annotation_values(directory_path: str):
             with open(filename, 'r', encoding='utf-8', errors='ignore') as file:
                 content = file.read()
                 segments = content.split(delimiter)
-                
+
                 if len(segments) < 2:
                     print(f"Skipping {filename} as it doesn't contain enough segments")
                     continue  # skip files with less than 2 segments
-                
+
                 german_segments = []
                 english_segments = []
+                trash = []
 
                 for i, segment in enumerate(segments, start=1):
                     annotation_values = annotation_pattern.findall(segment)
                     cleaned_annotation_values = clean_values(annotation_values)
 
-                    if i % 2 != 0:  # Assuming odd segments are in German
-                        german_segments.extend(cleaned_annotation_values)
-                    else:  # Assuming even segments are in English
-                        english_segments.extend(cleaned_annotation_values)
+                    # Displaying the cleaned_annotation_values
+                    print(f"Annotation values: {cleaned_annotation_values}")
 
-                with open('german_translation.txt', 'w', encoding='utf-8') as output_file:
+                    user_input = input("Press e for English, g for German, or t for Trash: ").strip().lower()
+                    if user_input == 'e':
+                        english_segments.extend(cleaned_annotation_values)
+                    elif user_input == 'g':
+                        german_segments.extend(cleaned_annotation_values)
+                    elif user_input == 't':
+                        trash.extend(cleaned_annotation_values)
+
+                with open('german_translation.txt', 'a', encoding='utf-8') as output_file:
                     output_file.write('\n'.join(german_segments))
-                with open('english_original.txt', 'w', encoding='utf-8') as output_file:
+                with open('english_original.txt', 'a', encoding='utf-8') as output_file:
                     output_file.write('\n'.join(english_segments))
 
 if __name__ == "__main__":
