@@ -29,7 +29,7 @@ def extract_and_print_annotation_values(directory_path: str):
         return cleaned
 
     for foldername, subfolders, filenames in os.walk(directory_path):
-        for filename in glob.glob(os.path.join(foldername, '*.txt')):
+        for filename in glob.glob(os.path.join(foldername, '*.eaf')):
             with open(filename, 'r', encoding='utf-8', errors='ignore') as file:
                 content = file.read()
                 segments = content.split(delimiter)
@@ -52,13 +52,15 @@ def extract_and_print_annotation_values(directory_path: str):
                     user_input = input("Press e for English, g for German, or t for Trash: ").strip().lower()
                     if user_input == 'e':
                         english_segments.extend(cleaned_annotation_values)
+                        english_segments.append('\n')
                     elif user_input == 'g':
                         german_segments.extend(cleaned_annotation_values)
+                        german_segments.append('\n')
                     elif user_input == 't':
                         trash.extend(cleaned_annotation_values)
 
                 with open('german_translation.txt', 'a', encoding='utf-8') as output_file:
-                    output_file.write('\n'.join(german_segments))
+                    output_file.write(' '.join(german_segments))
                 with open('english_original.txt', 'a', encoding='utf-8') as output_file:
                     output_file.write('\n'.join(english_segments))
 
