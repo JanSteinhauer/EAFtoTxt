@@ -65,7 +65,6 @@ def extract_and_print_annotation_values(directory_path: str):
                 if len(segments) < 2:
                     print(f"Skipping {filename} as it doesn't contain enough segments")
                     continue
-                print(len(segments))
                
  
 
@@ -73,7 +72,14 @@ def extract_and_print_annotation_values(directory_path: str):
                     annotation_values = annotation_pattern.findall(segment)
                     cleaned_annotation_values = clean_values(annotation_values)
 
-
+                    if(len(segment) == 22):
+                        if i in [18, 17]:
+                            german_segments.extenendd(cleaned_annotation_values)
+                            german_segments.append('\n')
+                        if i in [22, 21, 20]:
+                            english_segments.extend(cleaned_annotation_values)
+                            english_segments.append('\n')
+                    
                     if (i == 2) ^ (i == 8):
                         german_segments_sentences.extend(cleaned_annotation_values)
                         german_segments_sentences.append('\n')
